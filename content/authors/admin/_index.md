@@ -69,4 +69,4 @@ highlight_name: true
 
 I am last year student of Computer Engineering at Sharif University of Technology. I am interested in computer security and privacy, high performance computing, operating systems, and computer architecture. I am planning to pursue higher education in the field of computer science.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
