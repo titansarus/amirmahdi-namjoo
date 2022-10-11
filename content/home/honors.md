@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo: ysc
     location: Tehran
-    date_start: '2017-09-01'
-    date_end: ''
+    date_start: '2017-06-01'
+    date_end: '2017-09-01'
     description: |2-
         *  Every year, Olympiad Medals are awarded by Young Scholars Club to about 40 talented students in each field, after a series of exams and courses.
 
@@ -51,7 +51,7 @@ experience:
     company_logo: 
     location: Iran
     date_start: '2018-06-28'
-    date_end: ''
+    date_end: '2018-06-28'
     description: |2-
         * Ranked 81st in the National University Entrance Exam on Mathematics (Konkour) among more than 144,000 students nationwide.
 
