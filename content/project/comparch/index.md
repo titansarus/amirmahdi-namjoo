@@ -1,7 +1,7 @@
 ---
 title: Computer Architecture Course Project
 summary: |2-
-   * For the main project, we designed and tested a simple pipeline CPU using **Quartus**.
+   * For the main project, we designed and tested a multicycle CPU using **Quartus**.
    
    * Also, we designed and tested different cache configurations using **GEM5** in another project for this course.
 

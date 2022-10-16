@@ -17,8 +17,14 @@ content:
 
   # Contact details (edit or remove options as required)
   email: amirmahdi.namjoo1@gmail.com
+
+
   
   contact_links:
+    - icon: building-columns
+      icon_pack: fas
+      link: mailto:amirmahdi.namjoo@sharif.edu
+      name: amirmahdi.namjoo@sharif.edu
     - icon: github
       icon_pack: fab
       name: GitHub (titansarus)

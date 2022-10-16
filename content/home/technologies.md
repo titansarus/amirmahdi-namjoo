@@ -35,7 +35,7 @@ feature:
     name: Jenkins
 
 
-  - icon: "Django"
+  - icon: "django"
     icon_pack: "custom"
     name: Django
 
