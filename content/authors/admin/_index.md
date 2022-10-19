@@ -18,7 +18,7 @@ organizations:
     url:  "https://sharif.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer security and privacy, high performance computing, operating systems, and computer architecture.
+bio: My research interests include computer security and privacy, high performance computing, operating systems, computer architecture, and software engineering.
 
 # Interests to show in About widget
 interests:
