@@ -26,6 +26,7 @@ interests:
   - High Performance Computing
   - Operating Systems
   - Computer Architecture
+  - Software Engineering
 
 # Education to show in About widget
 education:
