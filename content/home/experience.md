@@ -22,18 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Undergraduate Research Assistant
-    company: S4Lab
-    company_url: ''
-    company_logo: s4lab
-    location: Tehran
-    date_start: '2022-01-01'
-    date_end: ''
-    description: |2-
-        * Under supervision of Dr. Mehdi Kharrazi
-        * Researching on control flow graph and vulnerability path similarity measures
-        * Implementing a Cyberrange website, using Django, Go, Docker, React for the website core. incorporating different security concepts to design multiple problem sets for the project.
-
 
   - title: Teaching Assistant
     company: Sharif University of Technology
