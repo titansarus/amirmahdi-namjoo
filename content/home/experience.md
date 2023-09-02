@@ -52,7 +52,7 @@ experience:
     company_logo: sharif
     location: Tehran
     date_start: '2022-09-01'
-    date_end: '2023-02-30'
+    date_end: '2023-02-29'
     description: |2-
         * Head Teaching Assistant - **Artificial Intelligence**
             * Instructor: Dr. Mohammad Hossein Rohban
