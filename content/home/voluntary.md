@@ -33,6 +33,43 @@ experience:
         * Students' Scientific Chapter (SSC) is a scientific association consisting of all students of Computer Engineering Department of Sharif University of Technology. It holds scientific talks and events throughout the year. Its central council consists of nine members, selected by votes of all students.
         * I have been selected as the president of SSC for one academic year by gaining the most votes in the general election and then gaining the votes of other central council members.
 
+  - title: Chief of Staff
+    company: ICPC Asia Tehran Regional Contest 2022
+    company_url: ''
+    company_logo: icpc
+    location: Tehran
+    date_start: '2023-04-01'
+    date_end: '2023-05-30'
+    description: |2-
+        * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world. 
+
+        * I was Chief of Staff of the ICPC Asia Tehran Regional Contest 2022.
+
+  - title: Vice Chair
+    company: WSS 2022
+    company_url: ''
+    company_logo: wss
+    location: Tehran
+    date_start: '2023-02-01'
+    date_end: '2022-04-30'
+    description: |2-
+        * Winter Seminar Series (WSS) is a scientific event held by the SCC. Invited professors and researchers from different universities around the world give talks on their research topics.
+
+        * I was vice chair of WSS 2022.
+
+
+  - title: Executive Staff
+    company: Hardwar 2023
+    company_url: ''
+    company_logo: hardwar
+    location: Tehran
+    date_start: '2023-04-01'
+    date_end: '2022-05-30'
+    description: |2-
+        * Hardwar is a scientific event held by the SCC. It is a 2-day event, where students form teams and compete in different fields of hardware related topics.
+
+        * I was on the Executive team of Hardwar 2023.
+
   - title: Scientific Staff
     company: Hardwar 2022
     company_url: ''
@@ -89,7 +126,7 @@ experience:
     date_start: '2020-01-01'
     date_end: '2020-01-01'
     description: |2-
-        * DataDays is an event and tournament held by the SSC. In this events which teams of participants compete to solve a data science problem. The teams are given a dataset and a problem statement, and they have to analyze the data and come up with a solution.
+        * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world. 
 
         * I was on the technical staff of the ICPC Asia -West Continent Final Contest (Tehran Site).
 

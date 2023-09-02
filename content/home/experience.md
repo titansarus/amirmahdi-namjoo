@@ -28,8 +28,31 @@ experience:
     company_url: ''
     company_logo: sharif
     location: Tehran
+    date_start: '2023-02-01'
+    date_end: '2023-08-30'
+    description: |2-
+        * Head Teaching Assistant - **Advanced Programming in Java**
+            * Instructor:  Dr. MohammadAmin Fazli
+        * Head Teaching Assistant - **Probability and Statistics in Engineering**
+            * Instructor: Dr. Mahdi Jafari Siavoshani
+        * Teaching Assistant - **Operating Systems**
+            * Instructor: Dr. Mehdi Kharrazi
+        * Teaching Assistant - **Compiler Design**
+            * Instructor: Ms. Samaneh Hosseinmardi
+        * Teaching Assistant - **Computer Architecture**
+            * Instructor: Dr. Laleh Arshadi
+        * Teaching Assistant - **Numerical Computations**
+            * Instructor: Prof. Hamid Sarbazi Azad and Dr. Samira Hossein Ghorban
+        * Head Teaching Assistant - **Fundamentals of Programming in C**
+            * Instructor: Mr. Hamidreza Hosseinkhani
+
+  - title: Teaching Assistant
+    company: Sharif University of Technology
+    company_url: ''
+    company_logo: sharif
+    location: Tehran
     date_start: '2022-09-01'
-    date_end: ''
+    date_end: '2023-02-30'
     description: |2-
         * Head Teaching Assistant - **Artificial Intelligence**
             * Instructor: Dr. Mohammad Hossein Rohban
@@ -41,6 +64,8 @@ experience:
             * Instructor: Dr. Mehdi Kharrazi
         * Teaching Assistant - **Operating Systems**
             * Instructor: Prof. Hossein Asadi
+        * Teaching Assistant - **Numerical Computations**
+            * Instructor: Prof. Hamid Sarbazi Azad and Dr. Samira Hossein Ghorban
 
   - title: Teaching Assistant
     company: Sharif University of Technology

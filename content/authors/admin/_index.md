@@ -33,7 +33,7 @@ education:
   courses:
     - course: Bachelor of Science in Computer Engineering
       institution: Sharif University of Technology
-      year: Fall 2018 - Present
+      year: Fall 2018 - July 2023
     - course: High School Diploma in Mathematics and Physics
       institution: Shahid Beheshti NODET (SAMPAD) High School
       year: Fall 2014 - Spring 2018
@@ -68,6 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-I am last year student of Computer Engineering at Sharif University of Technology. I am interested in computer security and privacy, high performance computing, operating systems, and computer architecture. I am planning to pursue higher education in the field of computer science.
+I graduated from Sharif University of Technology with a Bachelor of Science in Computer Engineering and will be a Ph.D. Student in Computer Science at the University of Maryland from Winter 2023. I am interested in computer security and privacy, high-performance computing, operating systems, and computer architecture.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé.{{< /staticref >}}

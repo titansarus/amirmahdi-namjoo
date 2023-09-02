@@ -23,8 +23,8 @@ content:
   contact_links:
     - icon: building-columns
       icon_pack: fas
-      link: mailto:amirmahdi.namjoo@sharif.edu
-      name: amirmahdi.namjoo@sharif.edu
+      link: mailto: namjoo@umd.edu
+      name: namjoo@umd.edu
     - icon: github
       icon_pack: fab
       name: GitHub (titansarus)
