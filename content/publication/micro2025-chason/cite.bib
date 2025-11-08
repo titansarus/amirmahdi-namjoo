@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3725843.3756086,
+author = {Bakhtiar, Ubaid and Namjoo, Amirmahdi and Asgari, Bahar},
+title = {Chaso\v{n}: Supporting Cross HBM Channel Data Migration to Enable Efficient Sparse Algebraic Acceleration},
+year = {2025},
+isbn = {9798400715730},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3725843.3756086},
+doi = {10.1145/3725843.3756086},
+abstract = {High bandwidth memory (HBM) equipped sparse accelerators are emerging as a new class of accelerators that offer concurrent accesses to data and parallel execution to mitigate the memory bound behavior of sparse kernels. However, because of their underlying non-zero scheduling scheme, state-of-the-art HBM-based sparse accelerators (e.g., Serpens) suffer from high resource underutilization causing suboptimal performance, and inefficiency. To solve this challenge, we propose Chaso\v{n}, an HBM-based streaming accelerator for sparse kernels, specifically sparse matrix vector multiplication. Chaso\v{n} supports our novel non-zero scheduling scheme called Cross-HBM Channel out-of-order (OoO) Scheduling (CrHCS) to enable data migration across HBM channels and mitigate resource underutilization. We implement Chaso\v{n} on AMD Alveo U55C, achieving 301MHz clock frequency and evaluate it based on SuiteSparse and SNAP matrix collections. Chaso\v{n} improves the resource utilization and achieves up to 8 \texttimes{} , 20.33 \texttimes{} , 11.65 \texttimes{} , and 2.67 \texttimes{} performance improvement and 2.03 \texttimes{} , 34.72 \texttimes{} , 19.48 \texttimes{} , and 14.61 \texttimes{} better energy efficiency over Serpens, Nvidia RTX 4090, Nvidia RTX 6000 Ada, and Intel Core i9-11980HK, respectively. The source code of Chaso\v{n} is available at https://github.com/UbaidHunts/Chason.},
+booktitle = {Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture},
+pages = {778–794},
+numpages = {17},
+keywords = {High Bandwidth Memory, Sparse Algebra, Streaming Accelerator, Data Migration, PE utilization, FPGA Implementation},
+location = {
+},
+series = {MICRO '25}
+}

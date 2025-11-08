@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3725843.3756126,
+author = {Yadav, Sanjali and Namjoo, Amirmahdi and Asgari, Bahar},
+title = {Misam: Machine Learning Assisted Dataflow Selection in Accelerators for Sparse Matrix Multiplication},
+year = {2025},
+isbn = {9798400715730},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3725843.3756126},
+doi = {10.1145/3725843.3756126},
+abstract = {The performance of Sparse Matrix-Matrix Multiplication (SpGEMM), a foundational operation in scientific computing and machine learning, is highly sensitive to the diverse and dynamic sparsity patterns of its input matrices. While specialized hardware accelerators improve efficiency, their reliance on fixed dataflows, each optimized for a narrow sparsity regime, results in suboptimal performance on real-world workloads. Even recent flexible accelerators that support multiple dataflows face two critical limitations: (1) the lack of a fast and principled mechanism for runtime dataflow selection, and (2) the area overhead and hardware underutilization incurred to provide that flexibility. We present Misam, a machine learning framework that addresses these challenges to enable adaptive and hardware-efficient SpGEMM acceleration. Misam employs a lightweight decision tree to dynamically predict the optimal hardware configuration from matrix features. To overcome hardware underutilization, Misam leverages FPGA reconfigurability to deploy specialized, resource-efficient bitstreams on demand. This process is governed by an intelligent reconfiguration engine that evaluates whether the anticipated performance gain justifies the overhead of switching hardware configurations. Misam’s dynamic approach yields up to a 10.76 \texttimes{} speedup by judiciously reconfiguring. Misam demonstrates that a synergistic combination of machine learning-based prediction and judicious hardware reconfiguration can achieve high performance across a wide spectrum of sparsity patterns, bridging the gap between specialized efficiency and general-purpose adaptability.},
+booktitle = {Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture},
+pages = {824–838},
+numpages = {15},
+keywords = {Flexible SpGEMM accelerators, FPGA Reconfiguration, Decision Tree.},
+location = {
+},
+series = {MICRO '25}
+}
